@@ -1,4 +1,3 @@
-# nagios-core-nrpe
 # Nagios Monitoring Setup – Step by Step Guide (Server & Client)
 
 This repository contains my step-by-step project on setting up Nagios Core for server and client monitoring. I performed this project as part of my hands-on practice to understand IT monitoring and alerting. All configurations, installations, and tests were done by me, and I’ve documented the process to share my learning.
